@@ -1,0 +1,19 @@
+{
+  "name": "node-music-discord-rpc",
+  "version": "1.0.0",
+  "description": "Advanced discord music rich presence status with support for album covers",
+  "main": "app.js",
+  "keywords": [],
+  "author": "Patryk Kurdziel",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "discord-rpc": "^4.0.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.18.13",
+    "pkg": "^5.8.1",
+    "rimraf": "^5.0.1"
+  }
+}
